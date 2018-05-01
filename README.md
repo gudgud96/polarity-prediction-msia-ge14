@@ -1,7 +1,7 @@
 # Polarity Prediction on Msia's GE14 tweets using Naive Bayes and NLP techniques
 Date: 1.5.2018
 
-![](ge14.jpg) ![](ge14-2.jpg)
+<img src="ge14.jpg" width="500"/> <img src="ge14-2.jpg" width="500"/> 
 
 The 14th General Election in Malaysia is coming!
 In view of Siraj Raval's tutorial video (https://www.youtube.com/watch?v=o_OZdbCzHUA), this project aims to build a polarity predictor on tweets related to our beloved, dearest, wonderful Prime Minister, Najib Razak.
