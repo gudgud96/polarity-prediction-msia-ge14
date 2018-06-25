@@ -27,6 +27,6 @@ For my Naive Bayes model, simply do:
 ```
 python tweet_polarity_naive_bayes_predictor.py
 ```
-Interested in the implementation details? Check out my tech blogpost about this project here.
+Interested in the implementation details? Check out my tech blogpost about this project [here](https://gudgud96.github.io/projects/nb-classifier-najib-razak.html).
 
 In conclusion: dearest Najib, don't you ever think that you are still favourable among the people!
