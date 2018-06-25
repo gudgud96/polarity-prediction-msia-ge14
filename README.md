@@ -4,7 +4,7 @@ Date: 1.5.2018
 <img src="ge14.jpg" width="425" height="230"/> <img src="ge14-2.jpg" width="425" height="230"/> 
 
 The 14th General Election in Malaysia is coming!
-In view of Siraj Raval's tutorial video (https://www.youtube.com/watch?v=o_OZdbCzHUA), this project aims to build a polarity predictor on tweets related to our beloved, dearest, wonderful Prime Minister, Najib Razak.
+In view of Siraj Raval's tutorial [video](https://www.youtube.com/watch?v=o_OZdbCzHUA), this project aims to build a polarity predictor on tweets related to our beloved, dearest, wonderful Prime Minister, Najib Razak.
 
 # Project Parts
 
